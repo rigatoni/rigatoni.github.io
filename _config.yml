@@ -1,10 +1,10 @@
 # Site settings
-title: Pixyll
+title: Rigatoni Blog
 email: your_email@example.com
-author: John Otander
+author: Team Rigatoni
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl: ""
-url: "http://pixyll.com"
+url: "http://rigatoni.github.io"
 google_analytics:
 animated: false
 
