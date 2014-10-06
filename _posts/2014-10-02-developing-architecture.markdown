@@ -2,7 +2,7 @@
 layout:     post
 title:      Making decisions about requirements and architecture
 date:       2014-10-02
-summary:    Our planning continues with more details being worked into the project's design
+summary:    Our planning continues with more details being worked into the project's design.
 ---
 
 Last week, we announced the decision to move to a web-based framework, which would allow us to continue developing the Linguine project while avoiding the limitations and lack of domain knowledge that existed in the Eclipse RCP project that came before us. Over the last week and a half, we have continued filling out the documentation to describe exactly what our project will entail. The more complete this documentation is at the start, the easier the workload will be once we begin coding.

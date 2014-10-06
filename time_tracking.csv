@@ -1,0 +1,33 @@
+Name,Task Description,Date,# Hours
+All,Team meeting,9/2/2014,1.5
+All,Sponsor Meeting,9/4/2014,1.5
+Dan,1-1 with sponsor,9/5/2014,1
+Mike,Meeting with Keuhl,9/8/2014,1
+All,Team meeting,9/9/2014,1.5
+All,Sponsor meeting,9/11/2014,1.5
+Dan,1-1 with sponsor,9/12/2014,1
+All,Team meeting,9/16/2014,1.5
+Kristen,Create Website,9/16/2014,1
+Pete,Create Project Icon,9/16/2014,0
+Mike,Project Plan,9/17/2014,1.5
+All,Sponsor meeting,9/19/2014,1.5
+Dan,Experimented with Django,9/20/2014,3
+Pete,Explore Django,9/21/2014,2
+Mike,Played with Django,9/21/2014,2
+Pete,Discuss SG Hosting,9/22/2014,1.5
+All,Team meeting,9/23/2014,1.5
+Mike,Blog Post,9/23/2014,0.5
+Pete,Configure SE public_html folder,9/23/2014,1
+All,Sponsor meeting,9/25/2014,1.5
+Kristen,Experimented with Django,9/25/2014,2
+Kristen,Made a github Repo,9/25/2014,0.5
+Mike,Project plan updates,9/29/2014,0.25
+Mike,Requirements document,9/29/2014,2
+Dan,Requirements document,9/29/2014,2
+All,Internal Team Meeting,9/30/2014,1
+Kristen,NodeJS/Angular/Python Prototype,10/1/2014,5.5
+Dan,Blog post,10/2/2014,1
+Pete,"Wireframes - Corpora View, Creation",10/2/2014,2
+All,Sponsor meeting,10/2/2014,1.5
+Pete,Architecture Document,10/2/2014,1
+Dan,Blog Post and updating github.io details,10/6/2014,1
