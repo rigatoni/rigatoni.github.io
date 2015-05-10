@@ -99,6 +99,25 @@ Mike, CoreNLP wrapper, 3/11/15, 4
 Dan, Standardizing Transaction form, 3/17/15, 4
 Dan, Lemmatization and Stemming, 3/18/15, 6
 Dan, Sentence Tokenization, 3/19/15, 1
-Dan, Python bugfixing, 3/21/15, 2
-Dan, Adding Analysis to Node, 4/2/15, 2
-
+Dan, Python bugfixing, 3/31/15, 2
+Mike, Python bugfixing, 3/31/15, 2
+Mike, Fixing Python/Node ENV, 4/2/15, 1
+Dan, Adding analysis to Node, 4/2/15, 2
+Mike, Fixing Node view formatting, 4/2/15, 1
+Pete, Adding example tags on homepage, 4/2/15, 1
+Kristen, Merging real file upload, 4/2/15, 2
+Dan, Default analysis view, 4/7/15, 3
+Mike, Default analysis view, 4/8/15, 2
+Dan, Fixing Python analyses, 4/8/15, 2
+Mike, Fixing Python analyses, 4/8/15, 2
+Mike, Fixing Python analyses, 4/12/15, 2
+Mike, Adding documentation and visualizations to Node, 4/12/15, 2
+Dan, Adding documentation and visualizations to Node, 4/12/15, 2
+Mike, UI Fixes to Node, 4/14/15, 2
+Dan, UI Fixes to Node, 4/14/15, 2
+Dan, Building routes for documentation, 4/21/15, 5
+Dan, Updating Python documentation, 4/21/15, 1
+Dan, Provided text files, 4/25/15, 4
+Mike, Provided text files, 4/25/15, 4
+Pete, Part of Speech Tagging, 4/25/15, 4
+Mike, Crossplatform provided text files, 4/30/15, 2
